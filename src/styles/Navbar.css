@@ -1,0 +1,23 @@
+.about {
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+}
+.project{
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    margin-left:50px;
+}
+.contact{
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 50px;
+}
