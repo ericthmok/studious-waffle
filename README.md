@@ -2,7 +2,7 @@
 ### Motivation: Build a React Portfolio for the employers
 ### Reasons for building the project: Introduce the works to others
 
-Link: https://ericthmok.github.io/studious-waffle/
+## Step: Fork the Repo and go "npm install". Use "npm start" after the install.
 
 ## License
 MIT License
