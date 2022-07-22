@@ -12,7 +12,8 @@ function Footer(){
                 <a>Leave me a message:</a><br></br>
                 <input placeholder="Name"></input><br></br>
                 <input placeholder="email"></input><br></br>
-                <input placeholder="Message to me"></input>
+                <input placeholder="Message to me"></input><br></br>
+                <button>submit</button>
             </form><br></br><br></br>
             <a href='#head'>HOME</a>
         </footer>
