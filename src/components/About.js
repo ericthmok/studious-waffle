@@ -27,7 +27,7 @@ function About() {
         I am Eric who did not have any backgrounds of coding knowledge before joining this bootcamp. Coding is hard but at the same time fun as it requires a lot of trying and efforts in between. I am seeking a chance to enter the coding world after the bootcamp and this page is an area for me to save the works I had done.
       </div>
       <img src={require('../assets/images/recent.jpeg')} alt="about" className="pic"></img><br></br><br></br>
-      <a href={require("../assets/files/resume.pdf")} download>Download my resume</a>
+      <a href={require("../assets/files/resume.pdf")} className="cv" download>Download my resume</a>
     </div>
   );
 }
